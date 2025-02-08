@@ -1,6 +1,4 @@
-<center>
   
-</center>
 <img width="228" alt="image" src="https://github.com/user-attachments/assets/cc87d49f-2f18-45a7-ade5-97096ab46234" />
 
 ---
@@ -9,6 +7,5 @@
 
 
 
----
 
-</center>
+---
